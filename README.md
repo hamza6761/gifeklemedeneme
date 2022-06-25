@@ -4,5 +4,5 @@ Burda gif eklemeye caliscam
 
 <h2>gif burda</h2>
 
-![](1.gif)
+![111](1.gif)
 
